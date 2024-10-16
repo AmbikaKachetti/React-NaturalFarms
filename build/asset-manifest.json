@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d9c920ef.css",
+    "main.js": "/static/js/main.143c7654.js",
+    "static/js/453.ab0ca6dc.chunk.js": "/static/js/453.ab0ca6dc.chunk.js",
+    "static/media/custard-apple_card.png": "/static/media/custard-apple_card.66872845b1acd45a0bce.png",
+    "static/media/grape.png": "/static/media/grape.8e4f786d2f35543480cb.png",
+    "static/media/corn_card.png": "/static/media/corn_card.ab88ce4bbaefa1faca63.png",
+    "static/media/dragon.png": "/static/media/dragon.0fb849cc02ec56b699c5.png",
+    "static/media/plum.png": "/static/media/plum.b373c4ba34f3a841819b.png",
+    "static/media/Kiwi.png": "/static/media/Kiwi.077b5790345d5ffc05c9.png",
+    "static/media/pineapple_card.png": "/static/media/pineapple_card.fe3bcd1e47c69ac23f37.png",
+    "static/media/pomogranate.png": "/static/media/pomogranate.828ded9b592748f77c88.png",
+    "static/media/Lime.png": "/static/media/Lime.63d294d6f400fbe9acbb.png",
+    "static/media/pear.png": "/static/media/pear.dedc198546fa96557bdd.png",
+    "index.html": "/index.html",
+    "main.d9c920ef.css.map": "/static/css/main.d9c920ef.css.map",
+    "main.143c7654.js.map": "/static/js/main.143c7654.js.map",
+    "453.ab0ca6dc.chunk.js.map": "/static/js/453.ab0ca6dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9c920ef.css",
+    "static/js/main.143c7654.js"
+  ]
+}
